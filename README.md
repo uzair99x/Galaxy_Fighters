@@ -41,7 +41,7 @@ Galaxy Fighters is a local multiplayer game where two players control spaceships
 
 1. Clone this repository:
    ```
-   git clone https://github.com/uzair99x/galaxy-fighters.git
+   git clone https://github.com/uzairrrhussain/galaxy-fighters.git
    cd galaxy-fighters
    ```
 
