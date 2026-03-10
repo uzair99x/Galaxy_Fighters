@@ -97,6 +97,6 @@ You can customize the game by modifying these variables in the code:
 - Don't waste all your bullets at once - aim carefully!
 - Use the center border as cover strategically
 - Watch your opponent's bullet count to know when to attack
-- Communication and trash talk with your opponent is encouraged! 😄
+
 
 ---
